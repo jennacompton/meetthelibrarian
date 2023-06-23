@@ -1,0 +1,48 @@
+body{
+	background-color: yellow;
+	color: royalblue;
+	background-color:lightyellow;
+
+	font-size:medium;
+	font-family: Georgia
+	line-height: 1.9 em;
+	margin 0.5;
+}
+
+.container {
+	width: 60%;
+	margin:0.5;
+}
+.box-1 {
+	font-family: Georgia;
+	font-size: 20px;
+	background-color:whitesmoke;
+	border-left:2px lightcoral solid;
+	border-right:2px lightcoral solid;
+	border-top:2px lightcoral solid;
+	border-bottom:2px lightcoral solid;
+	padding: 20px;
+	margin-top:20px;
+	margin: 20px;
+}
+.box-2 {
+	font-family: Georgia;
+	font-size 28 px;
+	background-color:whitesmoke;
+	border-left:2px lightcoral solid;
+	border-right:2px lightcoral solid;
+	border-top:2px lightcoral solid;
+	border-bottom:2px lightcoral solid;
+	padding: 20px;
+	margin-top:20px;
+	margin: 20px; ul 
+{
+line-height:200%
+{
+}
+	
+	.box-3 {
+	font-family: Georgia;
+	font-size 40 px;}
+	
+	
